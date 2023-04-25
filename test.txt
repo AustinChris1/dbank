@@ -1,0 +1,8 @@
+ dfx deploy dbank_backend --network ic --argument '(principal "ev4xq-7mazj-ij3dl-vbf42-iw
+7ch-346dy-dppsm-2glrw-w4n6l-abmlu-kae")'
+rrkah-fqaaa-aaaaa-aaaaq-cai
+ev4xq-7mazj-ij3dl-vbf42-iw7ch-346dy-dppsm-2glrw-w4n6l-abmlu-kae
+65233aca10461487a026d480b90460dabe58c13502428a3b84e2b020fb9da54b
+2vhzj-iqaaa-aaaag-abksa-cai
+
+fsqfe-6yaaa-aaaak-aepna-cai

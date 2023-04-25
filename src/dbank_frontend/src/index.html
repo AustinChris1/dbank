@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DBank</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <div class="container">
+    <img src="logo2.svg" alt="DFINITY logo" />
+    <br />
+    <br />
+    <form action="#" method="post">
+    <h1>Current Balance: $<span id="value">...</span></h1>
+    <div class="divider"></div>
+      <h2>Amount to Top Up</h2>
+      <input type="number" id="input-amount" step="0.01" min="0" name="topUp">
+      <h2>Amount to withdraw</h2>
+      <input type="number" name="withdraw" id="withdrawal-amount" step="0.01" min="0">
+      <input type="submit" value="Transact" id="submit-btn">
+    </form>
+  </div>
+</body>
+</html>
